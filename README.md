@@ -27,4 +27,4 @@ Melody is loaded from the `src/melody.h` header file. It contains the following 
 
 You can use examples from the `examples` directory to test a program.
 
-Composing a melody from scratch may be a bit confusing, so it's recommended to use the [ArWave Converter](https://bitbucket.org/torunar/arwave-converter) utility to convert single-track MIDI file to the melody header file.
+Composing a melody from scratch may be a bit confusing, so it's recommended to use the [ArWave Converter](https://github.com/torunar/arwave-converter) utility to convert single-track MIDI file to the melody header file.
